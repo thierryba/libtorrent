@@ -735,6 +735,7 @@ SIM_SOURCES = \
   setup_swarm.cpp \
   setup_swarm.hpp \
   test_auto_manage.cpp \
+  test_apply_pad.cpp \
   test_checking.cpp \
   test_dht.cpp \
   test_dht_bootstrap.cpp \
